@@ -1,5 +1,11 @@
 # CreativeMaking-LegendOfHanzi-UnitingThePastAndPresent
 
+In this project, the primary objective was to explore the application of artificial intelligence (AI) tools in the field of illustration. To accomplish this, I utilized a specific AI art generator called Dreamlike, utilizing its default model known as Kandinsky 2.1. By leveraging this tool, I was able to upload multiple images and generate a composite outcome that incorporates various elements such as color palette, texture, and composition.
+
+For the main resources of this project, I deliberately selected two distinct images. The first image was characterized by its grayscale tonality and possessed a prominently thick brush stroke texture. The second image featured elements such as butterflies, bridges, cranes, and clouds, executed in a traditional Chinese drawing style.
+
+The intention behind this assignment was to gain practical experience in utilizing AI technologies within the realm of illustration. Through the employment of Dreamlike's AI art generator and the careful selection of the aforementioned images, I sought to explore the interplay of various artistic features and styles, including color, texture, and composition.
+
 ## My Mission of the Project
 - 4 backgrounds: Game Cover, Background of 2 game levels, game endings background
 - GIF sequences of Hanzi translation animation
