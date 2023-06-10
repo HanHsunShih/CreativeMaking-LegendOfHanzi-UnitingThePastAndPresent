@@ -32,7 +32,7 @@ I used my own work and also others work to test how's the outcome:
 
 | initial pic 1 | initial pic 2 | AI generate art | 4 features |
 | --- | --- | --- | --- | 
-| ![alt text](1.jpg/200) |initial pic 2 | AI generate art | 4 features |
+| <img src="1.jpg" alt="alt text" width="250">|initial pic 2 | AI generate art | 4 features |
 
 
 This model can not only extract colour, texture, composition from each image, it can also adjust weight from each image. I found it would have better outcome if at least one of the resource image has simple content since I want players know what my image wants to convey from their first sight.
