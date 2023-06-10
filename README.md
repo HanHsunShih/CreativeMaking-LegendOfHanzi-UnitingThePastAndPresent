@@ -26,9 +26,13 @@ https://letsenhance.io/
 If a picture too small, and I need to resize it without losing quality.
 
 ## AI art generator DREAMLIKE :
-I choose to use dreamlike(https://dreamlike.art/create) as the main tool to help me generate image I want since it allows you to upload your own image by using the default Kandinsky2.1 model. Unlike Midjourney, DALL.E which using prompt to generate image, Dreamlike use image to communicate. Also I found Midjourney and DALL.E are better in create an image which has a main charactor but what I want is scene which have strong story telling ability.
+I choose to use dreamlike(https://dreamlike.art/create) as the main tool to help me generate image I want since it allows me to upload our own image by using the default Kandinsky2.1 model. Unlike Midjourney, DALL.E which using prompt to generate image, this model use image to communicate what we want with the model. Also I found Midjourney and DALL.E are better in create an image which has a main charactor but what I want is scene which have strong story telling ability.
 
 I used my own work and also others work to test how's the outcome:
+
+| initial pic 1 | initial pic 2 | AI generate art | 4 features |
+| --- | --- | --- | --- | 
+
 
 This model can not only extract colour, texture, composition from each image, it can also adjust weight from each image. I found it would have better outcome if at least one of the resource image has simple content since I want players know what my image wants to convey from their first sight.
 
