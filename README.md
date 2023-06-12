@@ -32,19 +32,13 @@ I used my own work and also others work to test how's the outcome:
 
 | initial pic 1 | initial pic 2 | AI generate art | 4 features |
 | --- | --- | --- | --- | 
-| <img src="1.jpg" alt="alt text" width="250">|<img src="2.jpg" alt="alt text" width="250">|<img src="3.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 + pic2  <br> main character: pic1 + pic2 <br> composition: pic1 |
-| --- | --- | --- | --- | 
-| <img src="1.jpg" alt="alt text" width="250">|<img src="5.jpg" alt="alt text" width="250">|<img src="6.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 <br> main character: pic2 <br> composition: pic2 |
-| --- | --- | --- | --- | 
-| <img src="7.jpg" alt="alt text" width="250">|<img src="8.jpg" alt="alt text" width="250">|<img src="9.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 <br> main character: pic1 + pic2 <br> composition: pic2 |
-| --- | --- | --- | --- | 
-| <img src="1.jpg" alt="alt text" width="250">|<img src="11.jpg" alt="alt text" width="250">|<img src="12.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic2 <br> main character: pic2 <br> composition: pic1 |
-| --- | --- | --- | --- |
-| <img src="13.jpg" alt="alt text" width="250">|<img src="14.jpg" alt="alt text" width="250">|<img src="15.jpg" alt="alt text" width="250">| colour palette: pic2 <br> texture: pic2 <br> main character: pic1 <br> composition: pic1 + pic2 |
-| --- | --- | --- | --- |
-| <img src="1.jpg" alt="alt text" width="250">|<img src="17.jpg" alt="alt text" width="250">|<img src="18.jpg" alt="alt text" width="250">| colour palette: pic1 + pic2 <br> texture: pic2 <br> main character: pic1 <br> composition: pic1 |
-| --- | --- | --- | --- |
-| <img src="19.jpg" alt="alt text" width="250">|<img src="20.jpg" alt="alt text" width="250">|<img src="21.jpg" alt="alt text" width="250">| colour palette: pic1 + pic2 <br> texture: pic2 <br> main character: pic2 <br> composition: pic1 + pic2 |
+| <img src="1.jpg" alt="alt text" width="250"><br>my own drawing|<img src="2.jpg" alt="alt text" width="250"><br>my own drawing|<img src="3.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 + pic2  <br> main character: pic1 + pic2 <br> composition: pic1 |
+| <img src="1.jpg" alt="alt text" width="250"><br>my own drawing|<img src="5.jpg" alt="alt text" width="250"><br>my own drawing|<img src="6.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 <br> main character: pic2 <br> composition: pic2 |
+| <img src="7.jpg" alt="alt text" width="250"><br>my own drawing|<img src="8.jpg" alt="alt text" width="250"><br>my own drawing|<img src="9.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic1 <br> main character: pic1 + pic2 <br> composition: pic2 |
+| <img src="1.jpg" alt="alt text" width="250"><br>my own drawing|<img src="11.jpeg" alt="alt text" width="250"><br>PARESCHI Daniela Italy|<img src="12.jpg" alt="alt text" width="250">| colour palette: pic1+pic2 <br> texture: pic2 <br> main character: pic2 <br> composition: pic1 |
+| <img src="13.jpeg" alt="alt text" width="250"><br>CUNHA Francisco Uruguay|<img src="14.png" alt="alt text" width="250"><br>Vendi Vernić|<img src="15.jpg" alt="alt text" width="250">| colour palette: pic2 <br> texture: pic2 <br> main character: pic1 <br> composition: pic1 + pic2 |
+| <img src="1.jpg" alt="alt text" width="250"><br>my own drawing|<img src="17.jpeg" alt="alt text" width="250"><br>Leire Salaberria https://www.behance.net/gallery/6049121/Bologna-childrens-book-fair-2012|<img src="18.jpg" alt="alt text" width="250">| colour palette: pic1 + pic2 <br> texture: pic2 <br> main character: pic1 <br> composition: pic1 |
+| <img src="19.png" alt="alt text" width="250"><br>Shi Tang https://www.behance.net/gallery/72347049/|<img src="20.jpeg" alt="alt text" width="250"><br>Marianne Ferrer https://www.behance.net/gallery/16655653/Identit-(Identity)|<img src="21.jpg" alt="alt text" width="250">| colour palette: pic1 + pic2 <br> texture: pic2 <br> main character: pic2 <br> composition: pic1 + pic2 |
 
 This model can not only extract colour, texture, composition from each image, it can also adjust weight from each image. I found it would have better outcome if at least one of the resource image has simple content since I want players know what my image wants to convey from their first sight.
 
